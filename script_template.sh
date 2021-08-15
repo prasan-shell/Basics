@@ -1,3 +1,9 @@
+########################################################################
+##  Purpose: This script to create the template for the shell script  ##
+##  Version: 1.0                                                      ##
+##  Author: Prasan                                                    ##
+########################################################################
+
 #!/bin/bash
 
 echo -e "Provide the filename of the shell script you going to create(eg: usercreation) without .sh : \c"
